@@ -10,7 +10,7 @@
 header {
   height: 700px;
   width: 100;
-  background-image: url(/images/banner/banner2.png);
+  background-image: url(images/banner/banner2.png);
 }
 
 .banner {
@@ -115,7 +115,7 @@ main {
 }
 
 .image_watch {
-    background-image: url(/images/gradient2.png);
+    background-image: url(images/gradient2.png);
     width: 1050px;
     height: 300px;
   
